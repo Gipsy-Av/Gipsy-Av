@@ -187,9 +187,7 @@
 ## 🏆 GitHub Trophies & Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gipsy-Av&theme=flat&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gipsy-Av&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
