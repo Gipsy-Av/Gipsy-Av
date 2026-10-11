@@ -30,4 +30,30 @@
 🚀 Key Projects & Systems Architecture
 🛠️ Complete Technical Arsenal
 📊 Engineering Activity & Metrics
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gipsy-Av&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gipsy-Av/Gipsy-Av/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 💡 Daily Engineering Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
 🌐 Connect & Network
