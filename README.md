@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gipsy-Av&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/Gipsy-Av/Gipsy-Av.json&show=5&color=8A2BE2&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/Location-Tangerang%2C%20Indonesia-blue?style=for-the-badge&logo=openstreetmap" />
 </p>
