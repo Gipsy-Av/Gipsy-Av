@@ -27,9 +27,10 @@
   }
 }
 
----
 
 ```
+---
+
 ## ⚡ Executive Core Domains & Engineering Disciplines
 
 <table>
