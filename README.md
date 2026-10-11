@@ -1,51 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hanif%20Iqbal%20Bagastyo%20(Hazuto)&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Specialist%20|%20Full-Stack%20&%20Desktop%20Architect&descSize=14&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Hanif%20Iqbal%20Bagastyo%20(Hazuto)&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Systems%20Architect%20|%20DevOps%20&%20Enterprise%20Software%20Engineer&descSize=14&descAlignY=62" width="100%" />
 </div>
 
 <p align="center">
   <img src="https://hits.dwyl.com/Gipsy-Av/Gipsy-Av.svg?style=flat-square" alt="Hit Counter" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Enterprise%20Projects-success?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/Location-Tangerang%2C%20Indonesia-blue?style=for-the-badge&logo=openstreetmap" />
+  <img src="https://img.shields.io/badge/Cleared-Production%20Ready-critical?style=for-the-badge&logo=linux" />
 </p>
 
 ---
 
 ```json
 {
-  "profile": {
+  "expert_profile": {
     "name": "Hanif Iqbal Bagastyo",
     "alias": "Hazuto",
-    "role": "Software Engineering Student & Systems Architect",
-    "institution": "Global Institute, Tangerang",
-    "core_competencies": [
-      "Full-Stack Web Engineering",
-      "Cross-Platform Mobile Apps",
-      "Desktop Vision Systems",
-      "Database Architecture & Design"
+    "core_designation": "Lead Full-Stack Systems Architect & DevOps Engineer",
+    "academic_track": "Informatics - Software Engineering (Global Institute, Tangerang)",
+    "core_specializations": [
+      "Distributed Enterprise Architecture",
+      "Containerized Cloud Environments (Docker & Cloud Computing)",
+      "Advanced Computer Vision & Biometric Systems",
+      "Network Infrastructure & Enterprise Security (Cisco Routing)"
     ]
   }
 }
 
-```
 ---
 
+```
 ## ⚡ Executive Core Domains & Engineering Disciplines
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>1. 🏗️ Systems & Architecture</h3>
+      <h3>1. 🏗️ Enterprise Architecture & Cloud</h3>
       <ul>
-        <li><b>Requirement Engineering:</b> Analisis kebutuhan sistem, SWOT Analysis, & system boundaries.</li>
-        <li><b>UML Modeling:</b> Class Diagram, Use Case, DFD, Activity & State Machine Diagram.</li>
-        <li><b>Enterprise Systems:</b> Pemodelan Sistem Informasi Manajemen (SIM) untuk operasional bisnis & ritel.</li>
+        <li><b>Cloud & Containerization:</b> Implementasi arsitektur cloud scaling & manajemen kontainer berbasis Docker.</li>
+        <li><b>Network Engineering:</b> Desain topologi jaringan enterprise, subnetting, & routing via Cisco Packet Tracer.</li>
+        <li><b>Systems Analysis:</b> Pemodelan sistem skala besar (UML, DFD, ERD, OOP Design, & SIM Ritel).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>2. 🗄️ Database Engineering</h3>
+      <h3>2. 🗄️ Database & Backend Scalability</h3>
       <ul>
-        <li><b>Relational Design:</b> Normalisasi database (1NF - 3NF) & Entity-Relationship Diagram (ERD).</li>
-        <li><b>Data Management:</b> Optimasi query MySQL, manipulasi DDL/DML, & enterprise scaling.</li>
+        <li><b>Advanced Database Management:</b> Normalisasi kompleks, manajemen query MySQL/SQL, & enterprise data integrity.</li>
+        <li><b>API & Microservices Testing:</b> Integrasi backend handal dan pengujian endpoint menggunakan Postman.</li>
       </ul>
     </td>
   </tr>
@@ -53,15 +54,15 @@
     <td valign="top">
       <h3>3. 🖥️ Desktop & Computer Vision</h3>
       <ul>
-        <li><b>Desktop Architecture:</b> Pengembangan aplikasi VB.NET di Visual Studio dengan GUI terstruktur.</li>
-        <li><b>Computer Vision:</b> Real-time facial recognition via OpenCvSharp, DlibDotNet, & Emgu.CV.</li>
+        <li><b>Desktop Solutions:</b> Rekayasa aplikasi enterprise berbasis VB.NET (Visual Studio) & Java (NetBeans).</li>
+        <li><b>Computer Vision Core:</b> Algoritma pengenalan wajah real-time (Facial Recognition) via OpenCvSharp & Dlib.</li>
       </ul>
     </td>
     <td valign="top">
       <h3>4. 🌐 Full-Stack Web Development</h3>
       <ul>
-        <li><b>Backend Frameworks:</b> Arsitektur MVC berbasis Laravel & CodeIgniter 3 dengan MySQL.</li>
-        <li><b>Environments:</b> Laragon server setup & pengembangan modular PHP, HTML5, CSS3, JS.</li>
+        <li><b>Modern Web Stack:</b> Pengembangan ekosistem web modular berkecepatan tinggi menggunakan Laravel & CodeIgniter.</li>
+        <li><b>Development Environments:</b> Setup lingkungan server lokal via Laragon, Git version control, & CI/CD workflow.</li>
       </ul>
     </td>
   </tr>
@@ -69,14 +70,14 @@
     <td valign="top">
       <h3>5. 📱 Mobile & UI/UX Systems</h3>
       <ul>
-        <li><b>Mobile Dev:</b> Aplikasi cross-platform responsif menggunakan Flutter & Dart.</li>
-        <li><b>UI/UX Prototyping:</b> High-fidelity design systems, wireframe, & user flow di Figma.</li>
+        <li><b>Cross-Platform Mobile:</b> Desain & pengembangan aplikasi mobile performa tinggi dengan Flutter & Dart.</li>
+        <li><b>UI/UX Engineering:</b> Perancangan <i>Design Systems</i> dan <i>High-Fidelity Prototyping</i> tingkat lanjut di Figma.</li>
       </ul>
     </td>
     <td valign="top">
-      <h3>6. 🛠️ DevOps & Version Control</h3>
+      <h3>6. 🛡️ Software Engineering & Ethics</h3>
       <ul>
-        <li><b>Git Workflow:</b> Repository management, branching strategy, commit conventions, & GitHub collaboration.</li>
+        <li><b>Software Lifecycle:</b> Penerapan metodologi Rekayasa Perangkat Lunak (RPL) ketat dan manajemen proyek IT terstruktur.</li>
       </ul>
     </td>
   </tr>
@@ -87,20 +88,20 @@
 ## 🚀 Key Projects & Systems Architecture
 
 <details>
-<summary><b>👁️ Real-Time Facial Recognition Attendance System</b> (Desktop Enterprise)</summary>
+<summary><b>👁️ Real-Time Facial Recognition Attendance Ecosystem</b> (Enterprise Vision)</summary>
 <br />
 <ul>
-  <li><b>Tech Stack:</b> Visual Basic .NET, OpenCvSharp, DlibDotNet, Emgu.CV, MySQL</li>
-  <li><b>Architecture Highlights:</b> Pemrosesan video stream langsung untuk ekstraksi vektor wajah, pencocokan pola biometrik real-time, dan pencatatan log kehadiran terintegrasi database.</li>
+  <li><b>Tech Stack:</b> Visual Basic .NET, OpenCvSharp, DlibDotNet, Emgu.CV, MySQL, NetBeans</li>
+  <li><b>Architecture Highlights:</b> Pemrosesan video stream langsung untuk ekstraksi vektor wajah, pencocokan pola biometrik real-time, dan sistem pencatatan log kehadiran terintegrasi database server.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>🛒 Toko Donat & Odading Inventory & Sales Management</b> (Web System)</summary>
+<summary><b>🛒 Toko Donat & Odading Inventory & Sales Management</b> (Enterprise Web Suite)</summary>
 <br />
 <ul>
-  <li><b>Tech Stack:</b> Laravel, PHP, MySQL, Laragon, Blade Templating</li>
-  <li><b>Architecture Highlights:</b> Menerapkan pola desain MVC secara ketat, manajemen inventaris otomatis berbasis mutasi stok, serta sistem laporan transaksi penjualan multi-role.</li>
+  <li><b>Tech Stack:</b> Laravel, PHP, MySQL, Laragon, Postman (API Testing), Docker</li>
+  <li><b>Architecture Highlights:</b> Menerapkan pola desain MVC secara ketat, manajemen inventaris otomatis berbasis mutasi stok real-time, dan pengujian endpoint API berstandar profesional.</li>
 </ul>
 </details>
 
@@ -108,17 +109,17 @@
 <summary><b>🏪 WarungKita Grocery Platform & OTO CAR</b> (UI/UX Systems)</summary>
 <br />
 <ul>
-  <li><b>Tech Stack:</b> Figma, Interactive Prototyping, Design Systems</li>
-  <li><b>Architecture Highlights:</b> Perancangan alur pengguna (user journey), desain antarmuka berbasis komponen modular, dan high-fidelity prototyping untuk platform ritel.</li>
+  <li><b>Tech Stack:</b> Figma, Interactive Prototyping, Design Systems, Enterprise Workflow</li>
+  <li><b>Architecture Highlights:</b> Perancangan alur pengguna (user journey) skala besar, desain antarmuka berbasis komponen modular, dan high-fidelity prototyping untuk platform ritel modern.</li>
 </ul>
 </details>
 
 <details>
-<summary><b>🚗 Progressive Parking Rate & Hospital Patient Management</b> (Desktop Systems)</summary>
+<summary><b>🚗 Progressive Parking Rate & Hospital Patient Management</b> (Core Systems)</summary>
 <br />
 <ul>
-  <li><b>Tech Stack:</b> VB.NET, Visual Studio 2022, MySQL Database Modeling</li>
-  <li><b>Architecture Highlights:</b> Algoritma perhitungan tarif parkir progresif otomatis dan pemodelan skema database pasien_rs lengkap dengan ERD & DFD ternormalisasi.</li>
+  <li><b>Tech Stack:</b> VB.NET, Visual Studio 2022, MySQL Database Modeling, NetBeans</li>
+  <li><b>Architecture Highlights:</b> Algoritma perhitungan tarif parkir progresif otomatis dan pemodelan skema database <code>pasien_rs</code> lengkap dengan normalisasi tingkat lanjut.</li>
 </ul>
 </details>
 
@@ -128,15 +129,14 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top"><b>Languages</b></td>
+    <td width="25%" valign="top"><b>Languages & Core</b></td>
     <td>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -145,6 +145,14 @@
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>DevOps, Cloud & Network</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -163,8 +171,9 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Tools & Design</b></td>
+    <td valign="top"><b>IDE, Tools & Design</b></td>
     <td>
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC9?style=for-the-badge&logo=apachebeans&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -219,5 +228,5 @@
 </p>
 
 <p align="center">
-  <i>⚡ Engineered with Precision | Software Engineering Discipline</i>
+  <i>⚡ Enterprise Grade Architecture | Production Ready Systems</i>
 </p>
