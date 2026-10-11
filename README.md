@@ -28,8 +28,6 @@
 
 ---
 
-#### **Bagian 2 (Tengah - Domains & Projects):**
-```markdown
 ## ⚡ Executive Core Domains & Engineering Disciplines
 
 <table>
