@@ -1,11 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%90%B1%E2%80%8D%F0%9F%91%93+I'm+Hanif+Iqbal+Bagastyo;Aka+Hazuto+%E2%9A%A1;Informatics+%26+Software+Engineering+Specialist;Building+End-to-End+Web%2C+Mobile+%26+Desktop+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%B1%E2%80%8D%F0%9F%91%93+I'm+Hanif+Iqbal+Bagastyo;Aka+Hazuto+%E2%9A%A1;Software+Engineering+Specialist;Building+End-to-End+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://komarev.com/ghpvc/?username=Gipsy-Av&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gipsy-Av&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ```json
@@ -63,6 +61,7 @@ Wireframing & Prototyping: Perancangan antarmuka pengguna high-fidelity, alur na
 7. 🛠️ Version Control & DevOps Workflow
 Git Version Control: Manajemen repository lokal & remote, branching strategy, commit convention, dan kolaborasi via GitHub.
 
+🚀 Key Projects & Systems Architecture
 🛠️ Complete Tech Stack & Tooling
 📊 Engineering Activity & Metrics
 🌐 Connect & Network
