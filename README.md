@@ -187,7 +187,7 @@
 ## 🚀 Engineering Commit Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipsy-Av&theme=tokyonight&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipsy-Av&theme=tokyonight&hide_border=true" width="99%" />
 </p>
 
 
@@ -198,10 +198,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gipsy-Av&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gipsy-Av&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipsy-Av&theme=tokyonight&hide_border=true" width="99%" />
 </p>
 
 ---
