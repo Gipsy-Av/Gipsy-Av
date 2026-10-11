@@ -26,8 +26,6 @@
     ]
   }
 }
-
-
 ```
 ---
 
@@ -186,12 +184,10 @@
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🏆 GitHub Commit Streak & Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gipsy-Av&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipsy-Av&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
