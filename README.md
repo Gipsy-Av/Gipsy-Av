@@ -184,10 +184,10 @@
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 🚀 Engineering Commit Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gipsy-Av&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gipsy-Av&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
 
